@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>71D6Gg0UdcL._UX562_.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/71D6Gg0UdcL._UX562_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>562</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>107</ymin>
+			<xmax>383</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

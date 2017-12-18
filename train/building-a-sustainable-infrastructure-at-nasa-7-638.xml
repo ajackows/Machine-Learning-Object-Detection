@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>building-a-sustainable-infrastructure-at-nasa-7-638.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/building-a-sustainable-infrastructure-at-nasa-7-638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>85</ymin>
+			<xmax>392</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

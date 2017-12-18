@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>a18dcadf92e60408a029a6333c14f545--nasa-aesthetic-bill-potts-aesthetic.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/a18dcadf92e60408a029a6333c14f545--nasa-aesthetic-bill-potts-aesthetic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>135</ymin>
+			<xmax>394</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

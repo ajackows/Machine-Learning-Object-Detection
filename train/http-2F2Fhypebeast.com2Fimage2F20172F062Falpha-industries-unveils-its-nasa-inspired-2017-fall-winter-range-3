@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>http-2F2Fhypebeast.com2Fimage2F20172F062Falpha-industries-unveils-its-nasa-inspired-2017-fall-winter-range-3.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/http-2F2Fhypebeast.com2Fimage2F20172F062Falpha-industries-unveils-its-nasa-inspired-2017-fall-winter-range-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>178</ymin>
+			<xmax>621</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

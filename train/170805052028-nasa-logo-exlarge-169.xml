@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>170805052028-nasa-logo-exlarge-169.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/170805052028-nasa-logo-exlarge-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>25</ymin>
+			<xmax>766</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

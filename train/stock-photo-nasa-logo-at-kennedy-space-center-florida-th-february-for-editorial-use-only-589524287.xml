@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>stock-photo-nasa-logo-at-kennedy-space-center-florida-th-february-for-editorial-use-only-589524287.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/stock-photo-nasa-logo-at-kennedy-space-center-florida-th-february-for-editorial-use-only-589524287.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>71</ymin>
+			<xmax>332</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

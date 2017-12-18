@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>nasa_logo_tshirt.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/nasa_logo_tshirt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>367</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>119</ymin>
+			<xmax>270</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

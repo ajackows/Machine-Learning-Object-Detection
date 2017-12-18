@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>_AL522P003-G11__default__11.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/_AL522P003-G11__default__11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>168</ymin>
+			<xmax>179</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

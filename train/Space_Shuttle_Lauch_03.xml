@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>Space_Shuttle_Lauch_03.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/Space_Shuttle_Lauch_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>86</ymin>
+			<xmax>340</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

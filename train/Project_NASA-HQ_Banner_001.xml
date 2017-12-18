@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>Project_NASA-HQ_Banner_001.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/Project_NASA-HQ_Banner_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1680</width>
+		<height>850</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>593</ymin>
+			<xmax>1193</xmax>
+			<ymax>826</ymax>
+		</bndbox>
+	</object>
+</annotation>

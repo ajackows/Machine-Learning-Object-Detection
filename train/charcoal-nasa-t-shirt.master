@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>charcoal-nasa-t-shirt.master.png</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/charcoal-nasa-t-shirt.master.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>164</ymin>
+			<xmax>442</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

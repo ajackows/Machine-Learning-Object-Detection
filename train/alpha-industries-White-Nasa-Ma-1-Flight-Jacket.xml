@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>alpha-industries-White-Nasa-Ma-1-Flight-Jacket.jpeg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/alpha-industries-White-Nasa-Ma-1-Flight-Jacket.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>305</ymin>
+			<xmax>493</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

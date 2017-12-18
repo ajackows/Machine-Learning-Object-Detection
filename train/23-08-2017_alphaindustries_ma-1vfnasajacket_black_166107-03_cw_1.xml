@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>23-08-2017_alphaindustries_ma-1vfnasajacket_black_166107-03_cw_1.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/23-08-2017_alphaindustries_ma-1vfnasajacket_black_166107-03_cw_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>200</ymin>
+			<xmax>536</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

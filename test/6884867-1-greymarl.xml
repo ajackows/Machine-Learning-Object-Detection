@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>6884867-1-greymarl.jpeg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/6884867-1-greymarl.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>655</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>164</ymin>
+			<xmax>343</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>NASA-Apron2.500.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/NASA-Apron2.500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>144</ymin>
+			<xmax>338</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>cape-canaveral.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/cape-canaveral.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>63</ymin>
+			<xmax>205</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>Alpha-Industries-x-NASA.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/Alpha-Industries-x-NASA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>125</ymin>
+			<xmax>531</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

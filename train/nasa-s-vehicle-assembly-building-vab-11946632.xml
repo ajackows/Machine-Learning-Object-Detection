@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>nasa-s-vehicle-assembly-building-vab-11946632.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/nasa-s-vehicle-assembly-building-vab-11946632.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>591</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>141</ymin>
+			<xmax>558</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

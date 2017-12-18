@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>il_570xN.1144355782_912v.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/il_570xN.1144355782_912v.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>257</ymin>
+			<xmax>439</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

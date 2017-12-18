@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>f238_nasa_cycle_jersey.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/f238_nasa_cycle_jersey.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>446</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>146</ymin>
+			<xmax>376</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

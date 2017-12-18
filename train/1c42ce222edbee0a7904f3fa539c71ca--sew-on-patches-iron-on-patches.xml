@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>1c42ce222edbee0a7904f3fa539c71ca--sew-on-patches-iron-on-patches.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/1c42ce222edbee0a7904f3fa539c71ca--sew-on-patches-iron-on-patches.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>143</ymin>
+			<xmax>652</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

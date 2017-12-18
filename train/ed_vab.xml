@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>ed_vab.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/ed_vab.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>248</ymin>
+			<xmax>638</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

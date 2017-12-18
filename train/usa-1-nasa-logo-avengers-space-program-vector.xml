@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>usa-1-nasa-logo-avengers-space-program-vector.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/usa-1-nasa-logo-avengers-space-program-vector.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>559</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>23</ymin>
+			<xmax>652</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

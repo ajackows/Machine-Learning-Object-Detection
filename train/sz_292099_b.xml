@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>sz_292099_b.jpeg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/sz_292099_b.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>674</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>294</ymin>
+			<xmax>394</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

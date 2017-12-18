@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>10florida19.JPG</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/10florida19.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>172</ymin>
+			<xmax>627</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>Kennedy-Space-Center-KSC-Vehicle-Assembly-Building-VAB-Space-Launch-System-SLS-NASA-image-posted-on-SpaceFlight-Insider-647x514.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/Kennedy-Space-Center-KSC-Vehicle-Assembly-Building-VAB-Space-Launch-System-SLS-NASA-image-posted-on-SpaceFlight-Insider-647x514.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>121</ymin>
+			<xmax>208</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>14143057-merritt-island-fl--feb-12-nasa-logo-in-kennedy-space-center-on-february-12-2012-in-merritt-island-fl.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/14143057-merritt-island-fl--feb-12-nasa-logo-in-kennedy-space-center-on-february-12-2012-in-merritt-island-fl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>31</ymin>
+			<xmax>328</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

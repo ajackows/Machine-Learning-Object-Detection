@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>1000380_black_field_grade_nasa_snapback_lp3.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/1000380_black_field_grade_nasa_snapback_lp3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>424</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>146</ymin>
+			<xmax>296</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>071236e60351497a88676f268f435225--nasa-space-center-about-space.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/071236e60351497a88676f268f435225--nasa-space-center-about-space.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>75</ymin>
+			<xmax>476</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

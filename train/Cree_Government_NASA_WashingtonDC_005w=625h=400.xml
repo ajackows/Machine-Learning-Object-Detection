@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>Cree_Government_NASA_WashingtonDC_005w=625h=400.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/Cree_Government_NASA_WashingtonDC_005w=625h=400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>208</ymin>
+			<xmax>361</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

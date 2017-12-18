@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>retro-cardinal-red_bd9dacac-f8be-40d8-a29b-6fbe23a04e89_grande.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/retro-cardinal-red_bd9dacac-f8be-40d8-a29b-6fbe23a04e89_grande.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>169</ymin>
+			<xmax>404</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

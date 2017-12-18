@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>8823453-1-grey.jpeg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/8823453-1-grey.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>655</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>295</ymin>
+			<xmax>377</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

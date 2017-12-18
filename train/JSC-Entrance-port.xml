@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>JSC-Entrance-port.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/JSC-Entrance-port.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>220</ymin>
+			<xmax>289</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

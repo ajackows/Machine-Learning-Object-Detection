@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>concorde-story,-facebook-647_070516023812.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/concorde-story,-facebook-647_070516023812.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>200</ymin>
+			<xmax>133</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

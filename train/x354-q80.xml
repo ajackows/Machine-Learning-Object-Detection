@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NASA</folder>
+	<filename>x354-q80.jpg</filename>
+	<path>/home/ajackow/Workspace/OpenCVML/traningData/NASA/x354-q80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>354</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NASA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>129</ymin>
+			<xmax>230</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>
