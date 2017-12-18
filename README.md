@@ -24,12 +24,13 @@ Once all the necessary Libaries and frameworks are installed:
 
 Clone Directory
 
-Navigate in terminal to Directory above the cloned directory (if you type ls this directory should appear in your lists)
+Navigate in terminal to Directory above the cloned directory (if you type 'ls' this directory should appear in your lists)
+rename the directory to Object-Detection (this is so you can run the follow script without error)
 
 It may be necessary to run the following comand in terminal
-protoc Machine-Learning-Object-Detection/protos/*.proto --python_out=.
+protoc object-detection/protos/*.proto --python_out=.
 
-Navigate into this directory (cd Machine-Learning-Object-Detection)
+Navigate into this directory (cd object-detection) Note the changed name
 
 run command:
 python3 imgRec.py
@@ -52,14 +53,18 @@ Make sure to have the following file structure with the images and csv files:
 Top-directory
 -data/
   -train_labels.csv
+  -test_labels.csv
 -images/
   -train/
     -training images (preferably jpeg)
   -test/
+    -testing images (preferably jpeg)
 -training
 
 Now with this file structure you can run the following program from the top directory to generate the tensor flow records:
 https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py
+
+this will generate tf record files for the training and test data, note it may be necessary to move the images into the image directory instead of within the train or test images directory.
 
 Note: the program will need to be modified to account for your model
 In the code there is a TODO where you change the labels and ID's for the images to be trained shown below:
@@ -83,8 +88,12 @@ Once the training data is configured move the images, data, and training folders
 Next we will obtain the model from the tensor flow github:
 http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_11_06_2017.tar.gz
 
-This is the same model used in the examples of tensor flow object detection.
-The path and needs image classifiers need to be modified to fit the the images you wish to detect
+This is the same model used in the examples of tensor flow object detection. We will then need to obtain the configuration file for this model from the samples directory within the object detection directory
+
+models-> research -> obeject-detection -> samples -> config -> ssd_mobilenet_v1.config
+
+The path and needs image classifiers need to be modified to fit the the images you wish to detect. The config file will also posess other parameters to the trianing record and test record you may with to edit.
+This config determines how the nerual network will be configured, how many epochs, how many evaluations, and how many classifiers. Add this edited file to your training subdirectory within the object-detection directory.
 once this is done in the training subdirectory add a  file: object-detection.pbtxt
 Write:
 This will change with your object label, a copy of the training forlder used here is in this repository
